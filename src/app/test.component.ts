@@ -7,9 +7,7 @@ import {Component} from '@angular/core';
         <button (click)="OnDecr(num.value)">Decrement</button><br> 
         <button (click)="OnSqr(num.value)">Square</button> <br>
         <button (click)="OnHalf(num.value)">Half</button> <br>
-
-
-	`
+`
 
 })
 export class testComponent{
